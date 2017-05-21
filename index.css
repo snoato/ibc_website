@@ -1,0 +1,165 @@
+/*Providing the team colors as classes for easy access*/
+
+.norman-bg {
+    background-color: rgb(233,35,48);
+}
+
+.norman-tx {
+    color: rgb(233,35,48);
+}
+
+.items-bg {
+    background-color: rgb(230,87,90);
+}
+
+.items-tx {
+    color: rgb(230,87,90);
+}
+
+.r0f-bg {
+    background-color: rgb(201, 232, 226);
+}
+
+.r0f-tx {
+    color: rgb(201, 232, 226);
+}
+
+.hillsdale-bg {
+    background-color: rgb(42, 141, 192);
+}
+
+.hillsdale-tx {
+    color: rgb(42, 141, 192);
+}
+
+.losaltos-bg {
+    background-color: rgb(36, 104, 148);
+}
+
+.losaltos-tx {
+    color: rgb(36, 104, 148);
+}
+
+.rolla-bg {
+    background-color: rgb(131, 75, 154);
+}
+
+.rolla-tx {
+    color: rgb(131, 75, 154);
+}
+
+.winchester-bg {
+    background-color: rgb(239, 195, 50);
+}
+
+.winchester-tx {
+    color: rgb(239, 195, 50);
+}
+nav {
+    height: 90px;
+    background-color: white;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(24,28,31);
+    font-family: 'Open Sans';
+}
+
+#logo {
+    height: 60px;
+    margin-top: 12.5px;
+    margin-left: 12px;
+}
+
+#news {
+    margin: 12px;
+    padding: 14px;
+    color: white;
+}
+
+#news-exclamation-mark {
+    font-size: 70px;
+    float: left;
+    margin-right: 10px;
+}
+
+#news-headline {
+    float: left;
+    font-weight: 400;
+    font-size: 1.2em;
+    width: calc(100% - 70px);
+}
+
+.float-stop {
+    clear: both;
+}
+
+#news-list {
+    float: left;
+    width: calc(100% - 70px);
+    margin-top: 10px;
+}
+
+.news-list-item {
+    margin-bottom: 4px;
+    font-weight: 100;
+}
+
+header {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    color: white;
+}
+
+#header-headline {
+    font-weight: 900;
+    font-size: 2em;
+}
+
+#header-text {
+    margin-left: 12px;
+    margin-right: 12px;
+    max-width: 600px;
+}
+
+#about {
+    margin-left: 12px;
+    margin-right: 12px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#members {
+    background-color:white;
+    padding: 12px;
+}
+
+#members-header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.5em;
+}
+
+.member {
+    color: white;
+    padding: 12px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.member-dark-text {
+    color: rgb(30,30,30);
+}
+
+#about-header {
+    font-size: 1.5em
+}
+
+footer {
+    color: white;
+    padding: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
