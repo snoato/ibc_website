@@ -54,12 +54,13 @@
 }
 /* Header Nav */
 #header {
-	height: 60px;
+	height: 80px;
 	padding: 6px;
-	background-color: rgba(255, 255, 255, 0.7);
+	/*background-color: rgba(255, 255, 255, 0.7);*/
+	background-color: rgb(24, 28, 31);
 }
 #header img {
-    height: 60px;
+    height: 80px;
 }
 /* Home Page (Unfinished)*/
 #home {
