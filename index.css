@@ -46,6 +46,11 @@
 	margin: 0px;
 	padding: 0px;
 }
+
+a {
+    color:rgb(233,35,48);
+    text-decoration: none;
+}
 #wrapper {
     font-family: 'Open Sans';
 }
